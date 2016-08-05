@@ -3,6 +3,18 @@ img {
   width: 100%;
 }
 
+.jumbotron {
+  text-align: center;
+  background-color: inherit;
+  color: maroon;
+}
+
+#display {
+  margin-top: 2em;
+  font-size: 3em;
+  text-align: center;
+}
+
 #jack-diamonds-hidden {
   display: none;
 }
